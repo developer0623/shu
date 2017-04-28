@@ -1,0 +1,6 @@
+.idea/
+node_modules/
+platforms/
+www/
+!plugins/onesignal-cordova-plugin/www
+src/.env.js
